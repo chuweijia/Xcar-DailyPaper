@@ -63,7 +63,7 @@ remote 远程的意思
 
 `git push origin bch1` 将本地分支推送到远程  
 
-
+`git rm "m.txt` 删除本地文件 `git commit -m "m is del"` 提交后才删除有效！
 全部push上去 重复只会提交已更改的任务 （删除除外且已删除的会被推到远程）  
 
 `git add -A` 在本地重新add一次   
